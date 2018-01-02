@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Касса</string>
+
+    <string name="earn">Заработано</string>
+    <string name="spent">Потрачено</string>
+    <string name="tips">Чаевые</string>
+    <string name="add_payment_title">Добавление платежа</string>
+    <string name="fire">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="type_text">Тип</string>
+    <string name="amount_text">Сумма</string>
+    <string name="money_name_text">UAH</string>
+
+    <string name="today">Сегодня</string>
+    <string name="history_text">Архив</string>
+    <string name="history_graphic">Архив (график)</string>
+
+    <string name="navigation_drawer_open">Открыть боковое меню</string>
+    <string name="navigation_drawer_close">Закрыть боковое меню</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="action_pick_date">Выбрать дату</string>
+
+    <string-array name="payment_type">
+        <item>@string/earn</item>
+        <item>@string/spent</item>
+        <item>@string/tips</item>
+    </string-array>
+</resources>
